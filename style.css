@@ -1,0 +1,114 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li, a {
+	display: inline-block;
+	padding: 4px;
+	text-decoration: none;	
+	color: white;
+	margin-left: 3px;
+	font-size: 13px;
+}
+
+
+
+header {
+	background-image: url("header.jpg");
+	background-size: 100%;
+	height: 268px;
+	margin: auto;
+}
+
+body {
+	width: 800px;
+	margin: 0 auto;
+	background: url("bg.png");	
+	background-repeat: repeat-x;
+}
+
+.top  { 
+	padding-top: 10px;
+	margin-left: 15px;
+	margin-bottom: 140px;
+}
+
+.blok {
+	width: 785px;
+	background-color: white;
+	padding-left: 15px;
+	padding-top: 15px;
+
+	
+}
+
+.topleft {
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+ }
+
+  a:hover {
+	  color: #CCFFFF;
+  }	 
+  
+ h2 {
+	 padding-bottom: 15px;
+ }
+  
+ .centerright {
+	 float: right;
+	 margin: 15px 15px 15px 15px;
+	
+ }
+
+ .underleft {
+	 float: left;
+	 margin-top: 15px;
+	 margin-right: 15px 
+
+ }
+
+ p {
+	 padding-right: 15px;
+ }
+  
+.space {
+	margin-top: 15px;
+}
+
+.vloot11 {
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+}
+
+.vloot12 {
+	float: right;
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.vloot5 {
+	float: right;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+}
+
+.vloot6 {
+	float:left;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+.vloot9 {
+	float: left;
+	margin-right: 15px;
+	margin-top: 15px;
+}
